@@ -62,11 +62,13 @@ h1 {
 
 <script>
 const photocards = [
-  "https://via.placeholder.com/120x170?text=Border+Day+One",
-  "https://via.placeholder.com/120x170?text=Border+Carnival",
-  "https://via.placeholder.com/120x170?text=Dimension+Dilemma",
-  "https://via.placeholder.com/120x170?text=Manifesto",
-  "https://via.placeholder.com/120x170?text=Dark+Blood"
+  "https://picsum.photos/120/170?random=1",
+  "https://picsum.photos/120/170?random=2",
+  "https://picsum.photos/120/170?random=3",
+  "https://picsum.photos/120/170?random=4",
+  "https://picsum.photos/120/170?random=5",
+  "https://picsum.photos/120/170?random=6"
+];
 ];
 
 const grid = document.getElementById("grid");
